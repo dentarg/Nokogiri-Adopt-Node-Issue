@@ -1,7 +1,7 @@
 Setup
 =====
 
-Under JRuby 1.5.5, install the Triniad gem
+Under JRuby 1.5.5, install the Triniad gem. Trinidad contains an embedded Tomcat runtime.
 
     gem install trinidad --no-rdoc --no-ri
 
